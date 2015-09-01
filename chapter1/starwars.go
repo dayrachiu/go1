@@ -7,6 +7,7 @@ func main() {
 		"A New Hope":              1977,
 		"The Empire Strikes Back": 1980,
 		"Return of the Jedi":      1983,
+		"The Phantom Menace":      1999,
 		"Attack of the Clones":    2002,
 		"Revenge of the Sith":     2005,
 	}
